@@ -1,5 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/m3in48hf0846qtot?svg=true)](https://ci.appveyor.com/project/milesibastos/nhibernate-aspnet-identity)
-[![Stories in Ready](https://badge.waffle.io/nhibernate/NHibernate.AspNet.Identity.svg?label=ready&title=Ready)](http://waffle.io/nhibernate/NHibernate.AspNet.Identity) 
+[![Stories in Ready](https://badge.waffle.io/nhibernate/NHibernate.AspNet.Identity.svg?label=ready&title=Ready)](http://waffle.io/univalle-zz/NHibernate.AspNet.Identity) 
 
 
 NHibernate.AspNet.Identity
